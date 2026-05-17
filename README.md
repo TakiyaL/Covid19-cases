@@ -1,2 +1,2 @@
 # Covid19-cases
-To predict number of death and recovery cases for Covid 19
+Predicted number of death and recovery cases for Covid 19
